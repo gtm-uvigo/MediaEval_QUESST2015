@@ -2,6 +2,7 @@
 GTM-UVigo systems for Query-by-Example Search on Speech task at MediaEval 2015
 
 Software requirements:
+- libarmadillo
 - Matlab
 - Kaldi toolkit
 
