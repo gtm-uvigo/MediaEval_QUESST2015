@@ -4,7 +4,7 @@ GTM-UVigo systems for Query-by-Example Search on Speech task at MediaEval 2015
 Software requirements:
 - libarmadillo
 - Matlab
-- [Kaldi toolkit](kaldi.sourceforge.net)
+- [Kaldi toolkit](http://kaldi.sourceforge.net)
 
 The scripts are organized in two folders:
 - PhonemePosteriorgrams: scripts and models for extracting phoneme posteriorgrams. (Not available yet)
