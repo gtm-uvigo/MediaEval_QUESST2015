@@ -7,4 +7,4 @@ Software requirements:
 
 The scripts are organized in two folders:
 - PhonemePosteriorgrams: scripts and models for extracting phoneme posteriorgrams. (Not available yet)
-- DTW: scripts for performing phoneme unit selection, subsequence dynamic time warping (S-DTW) and S-DTW with phoneme unit selection.
+- SearchOnSpeech: scripts for performing phoneme unit selection, subsequence dynamic time warping (S-DTW) and S-DTW with phoneme unit selection.
