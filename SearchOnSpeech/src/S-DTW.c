@@ -1,3 +1,8 @@
+/*********************************************************************
+ *  Copyright (C) Paula López Otero, GTM, Universidade de Vigo,2015  *
+ *  E-mail: plopez@gts.uvigo.es                                      *
+ * *******************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
