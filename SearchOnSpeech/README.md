@@ -1,4 +1,4 @@
-This folder includes scripts for performing subsequence dynamic time warping (S-DTW) for query-by-example spoken document retrieval as well as phoneme unit selection [2] in the context of Query-by-example Search on Speech Task at MediaEval 2015. These scripts assume that you have already extracted the phoneme posteriorgrams following the scripts in the folder `PhonemePosteriorgrams` (Not available yet).
+This folder includes scripts for performing subsequence dynamic time warping (S-DTW) for query-by-example spoken document retrieval as well as phoneme unit selection [2] in the context of Query-by-example Search on Speech Task at MediaEval 2015. These scripts assume that you have already extracted the phoneme posteriorgrams following the scripts in the folder `PhonemePosteriorgrams`.
 
 - Performing S-DTW using the phoneme posteriorgrams ESlstm:
 
