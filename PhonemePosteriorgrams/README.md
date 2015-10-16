@@ -13,7 +13,7 @@ This folder includes scripts for extracting phoneme posteriorgrams as described 
   - CZlstm, ENlstm, ESlstm, GAlstm (Kaldi decoder)
   - CZdnn, ENdnn, ESdnn, GAdnn (Kaldi decoder)
 
-  Kaldi models can be downloaded at (http://gtm.uvigo.es/KaldiModelsQUESST2015.php).
+  Kaldi models can be downloaded at http://gtm.uvigo.es/KaldiModelsQUESST2015.php
   
 Tips:
 - These scripts rely on a predetermined folder structure, so please have a look at the scripts before running them in order to allow them to find the required files in your filesystem.
